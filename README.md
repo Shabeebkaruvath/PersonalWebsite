@@ -1,2 +1,2 @@
- shabeeb's personal website: http://shabeeb.rf.gd
+ shabeeb's personal website: https://shabeebkaruvath.github.io/PersonalWebsite/
  
